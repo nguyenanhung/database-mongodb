@@ -19,10 +19,10 @@ namespace nguyenanhung\MongoDB;
 interface ProjectInterface
 {
     const VERSION             = '1.0.0';
-    const LAST_MODIFIED       = '2018-11-09';
+    const LAST_MODIFIED       = '2018-12-28';
     const AUTHOR_NAME         = 'Hung Nguyen';
     const AUTHOR_EMAIL        = 'dev@nguyenanhung.com';
-    const PROJECT_NAME        = 'Database MongoDB';
+    const PROJECT_NAME        = 'Database MongoDB Abstraction Layer';
     const TIMEZONE            = 'Asia/Ho_Chi_Minh';
     const REQUEST_TIMEOUT     = 60;
     const EXIT_SUCCESS        = 0; // no errors
