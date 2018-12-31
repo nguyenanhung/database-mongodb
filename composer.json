@@ -24,7 +24,8 @@
         "nguyenanhung/my-debug": "^0.1",
         "nguyenanhung/my-cache": "^0.1",
         "mongodb/mongodb": "^1.4",
-        "league/monga": "^1.2"
+        "league/monga": "^1.2",
+        "sokil/php-mongo": "^1.23"
     },
     "require-dev": {
         "kint-php/kint": "^3.0"
