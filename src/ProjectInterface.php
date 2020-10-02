@@ -18,7 +18,7 @@ namespace nguyenanhung\MongoDB;
  */
 interface ProjectInterface
 {
-    const VERSION             = '1.0.0';
+    const VERSION             = '2.0.0';
     const LAST_MODIFIED       = '2018-12-28';
     const AUTHOR_NAME         = 'Hung Nguyen';
     const AUTHOR_EMAIL        = 'dev@nguyenanhung.com';

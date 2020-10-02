@@ -21,9 +21,9 @@
         "php": ">=5.4",
         "ext-curl": "*",
         "ext-json": "*",
-        "nguyenanhung/my-debug": "^0.1",
-        "nguyenanhung/my-cache": "^0.1",
-        "mongodb/mongodb": "^1.4",
+        "nguyenanhung/my-debug": "^2.0",
+        "nguyenanhung/my-cache": "^2.0",
+        "mongodb/mongodb": "^1.7",
         "league/monga": "^1.2",
         "sokil/php-mongo": "^1.23"
     },
