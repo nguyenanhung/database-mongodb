@@ -18,8 +18,8 @@ namespace nguyenanhung\MongoDB;
  */
 interface ProjectInterface
 {
-    const VERSION             = '2.0.0';
-    const LAST_MODIFIED       = '2018-12-28';
+    const VERSION             = '2.0.1';
+    const LAST_MODIFIED       = '2021-02-09';
     const AUTHOR_NAME         = 'Hung Nguyen';
     const AUTHOR_EMAIL        = 'dev@nguyenanhung.com';
     const PROJECT_NAME        = 'Database MongoDB Abstraction Layer';
