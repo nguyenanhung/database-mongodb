@@ -21,14 +21,14 @@
         "php": ">=5.4",
         "ext-curl": "*",
         "ext-json": "*",
-        "nguyenanhung/my-debug": "^2.0",
-        "nguyenanhung/my-cache": "^2.0",
-        "mongodb/mongodb": "^1.8",
+        "nguyenanhung/my-debug": "^3.0",
+        "nguyenanhung/my-cache": "^3.0",
+        "mongodb/mongodb": "^1.9",
         "league/monga": "^1.2",
         "sokil/php-mongo": "^1.23"
     },
     "require-dev": {
-        "kint-php/kint": "^3.0"
+        "kint-php/kint": "^3.3"
     },
     "autoload": {
         "psr-4": {
